@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Web Menu
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can find the basic readme with available instructions to start the project and to test it.
+>The project got stripped of its sensitive data (api keys, personal information, endpoints) so it should be adjusted to fix server calls.
+As tested so far, the application is mobile friendly and adaptable to any screen size.
+
 
 ## Available Scripts
 
