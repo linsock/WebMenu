@@ -1,0 +1,50 @@
+.menuSection {
+    padding-left: 0px;
+    list-style-type: none;
+    font-family: fantasy;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.row {
+    border: 2px solid rgb(247, 232, 181);
+    box-shadow: 1px 1px rgb(247, 232, 181);
+    border-radius: 20px;
+    padding-right: 6%;
+    margin-right: 1%;
+    padding-top: 4px;
+    margin-bottom: 1px;
+    background-color: inherit;
+    color: inherit;
+}
+
+.row:hover {
+    background-color: goldenrod;
+    color: wheat;
+    cursor: pointer;
+}
+
+.menuTitle {
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.menuBody {
+    padding-left: 15%;
+    padding-right: 17%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.buttonCard{
+    border-radius: 20px;
+}
+
+.buttonCard:active {
+    color: goldenrod;
+}
+
+.buttonCard:hover {
+    border: 1px solid #aba180;
+}
